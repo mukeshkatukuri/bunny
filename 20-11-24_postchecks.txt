@@ -1,0 +1,8 @@
+Checking ETCD and Velero backup status...
+Error: Could not navigate to /backup directory.
+
+Checking cluster and node status...
+Cluster Version:
+NAME      VERSION   AVAILABLE   PROGRESSING   SINCE   STATUS
+version   4.14.31   True        False         120d    Cluster version is 4.14.31
+      
